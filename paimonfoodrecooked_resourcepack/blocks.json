@@ -1,0 +1,18 @@
+{
+  "format_version": [
+    1,
+    1,
+    0
+  ],
+  "paimonfoodrecooked:paimonblock": {
+    "textures": {
+      "up": "paimonfoodrecooked_paimonblock_up",
+      "down": "paimonfoodrecooked_paimonblock_down",
+      "south": "paimonfoodrecooked_paimonblock_south",
+      "north": "paimonfoodrecooked_paimonblock_north",
+      "west": "paimonfoodrecooked_paimonblock_west",
+      "east": "paimonfoodrecooked_paimonblock_east"
+    },
+    "sound": "slime"
+  }
+}

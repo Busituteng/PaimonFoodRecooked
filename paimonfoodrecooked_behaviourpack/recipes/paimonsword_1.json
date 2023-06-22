@@ -1,0 +1,46 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "paimonfoodrecooked:paimonsword_1"
+    },
+    "groups": [
+      "paimonfoodrecooked"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "012",
+      "345",
+      " 7 "
+    ],
+    "key": {
+      "0": {
+        "item": "paimonfoodrecooked:paimon"
+      },
+      "1": {
+        "item": "paimonfoodrecooked:paimonblock"
+      },
+      "2": {
+        "item": "paimonfoodrecooked:paimon"
+      },
+      "3": {
+        "item": "minecraft:diamond"
+      },
+      "4": {
+        "item": "paimonfoodrecooked:paimonblock"
+      },
+      "5": {
+        "item": "minecraft:diamond"
+      },
+      "7": {
+        "item": "minecraft:diamond_sword"
+      }
+    },
+    "result": {
+      "item": "paimonfoodrecooked:paimonsword",
+      "count": 1
+    }
+  }
+}

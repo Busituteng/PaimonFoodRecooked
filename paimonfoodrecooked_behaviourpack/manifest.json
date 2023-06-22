@@ -1,0 +1,46 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "",
+    "name": "PaimonFoodRecooked",
+    "uuid": "e58c6f80-d329-3ba3-ba8f-e437ce947ec0",
+    "version": [
+      0,
+      1,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "data",
+      "uuid": "936511b5-8860-3af8-bd77-8b939a48fdce",
+      "version": [
+        0,
+        1,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "12c9f298-4fb4-3daa-86e9-9efea659c43b",
+      "version": [
+        0,
+        1,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "BunnimimiTotem"
+    ],
+    "url": "https://gitee.com/busituteng/paimon-food-recooked"
+  }
+}
